@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<h3 align="center">A Machine Learning Engineer from Sri Lanka.</h3>
+<h3 align="center">A Data Scientist & Engineer from Sri Lanka.</h3>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/cf86645dc6ab8762a3993d6268e7b6eeb11f9ee1ac5129bc8ec8206445ddad89/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" alt="gif" />
